@@ -14,7 +14,7 @@
 /src/minecraft/*
 /src/minecraft_server/*
 /src/common/*
-!/src/minecraft/MCRPGProject/*
+!/src/minecraft/MCRPGProject/
 !/src/common/mcmod.info
 !/src/common/SP.png
 !/src/resources
